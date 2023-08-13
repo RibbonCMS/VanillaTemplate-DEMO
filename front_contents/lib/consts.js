@@ -1,3 +1,3 @@
-exports.rootPath = "https://ribboncms.github.io/VanillaTemplate"
-exports.basePath = "/VanillaTemplate"
+exports.rootPath = "https://ribboncms.github.io/VanillaTemplate-DEMO"
+exports.basePath = "/VanillaTemplate-DEMO"
 exports.domainPath = "ribboncms.github.io"
